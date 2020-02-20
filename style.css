@@ -1,0 +1,31 @@
+img {
+  width: 50%
+}
+h1 {
+  color; blue;
+  text-align: center;
+  background-color: red;
+}
+* {
+  background-color: #87733d;
+  text-align: center;
+}
+/* unvisited link */
+a:link {
+  color: #FF0000;
+}
+
+/* visited link */
+a:visited {
+  color: #00FF00;
+}
+
+/* mouse over link */
+a:hover {
+  color: #FF00FF;
+}
+/* selected link */
+a:active {
+  color: #0000FF;
+  
+  
